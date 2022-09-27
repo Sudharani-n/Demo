@@ -1,0 +1,10 @@
+Start listing scenaros
+Write TC for each scenario
+Review form Tc
+
+
+Testing:
+
+Compatibility testing
+
+Improvements:
